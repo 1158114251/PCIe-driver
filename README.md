@@ -1,24 +1,23 @@
-﻿
-# mcuyun.com
+# website: mcuyun (www.mcuyun.com)
 
 [![sites](qitas/qitas.png)](http://www.mcuyun.com)
-[![sites](qitas/weixin.png)](http://www.qitas.cn)
-
-### 项目描述
-
-精选各种典型MCU，提供各种软硬件设计
+[![sites](qitas/heretang.png)](http://www.mcuyun.com)
+[![sites](qitas/yimi.png)](http://www.mcuyun.com)
 
 ---
+
+## 描述
+
+
 
 ## 组成
 
 
 
----
 ## 说明
 
-2018-10-15: 创建该仓库
+2018-10-16: 添加站点文件
 
 ---
-## 为锻造最美之器
 
+## 为锻造最美之器
