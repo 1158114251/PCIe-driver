@@ -2,8 +2,6 @@
 
 用于驱动PCIE板卡设备
 
-[![sites](qitas/qitas.png)](http://www.qitas.cn)
-
 
 ---
 
