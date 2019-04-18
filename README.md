@@ -1,29 +1,14 @@
-﻿# [PCIE](https://github.com/qitas/PCIE) 
+﻿# [PCI&E](https://github.com/qitas/PCI-E) 
 
-用于驱动PCIE板卡设备
+#### qitas@qitas.cn
 
+## [简介](https://github.com/Qitas/PCI-E/wiki)
 
----
+收集整理了PCI以及PCIE的相关资料资源，制作自己嵌入式集成化设备驱动，包括window和Linux平台下的相关驱动实现
 
-## 简介
+### [关联项目](https://github.com/qitas/PCI-E) 
 
-
-整理PCI-E相关设备的驱动和设计，实现嵌入式开发的集成化
-
-包括window下的PCI-E驱动
-
----
-
-## 组成
-
-#### webcam
-
-#### win10
-
-#### python
-
----
-
-## 为锻造最美之器
+- [UART转PCIE](https://github.com/Qitas/UART-PCIE) 
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
+## 锻造最美之器
